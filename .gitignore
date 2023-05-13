@@ -11,3 +11,4 @@ results/*.csv
 *.h5
 *.HDF5
 __pycache__
+data
